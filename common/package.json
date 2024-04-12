@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "zod": "^3.22.4"
+  },
+  "name": "@prathamesh022/medium-common2",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
